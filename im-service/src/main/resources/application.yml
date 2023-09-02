@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: Asdf0823
-    url: jdbc:mysql://124.223.143.199:3306/mufengim?serverTimezone=UTC&useSSL=false&characterEncoding=UTF8
+    url: jdbc:mysql://123:3306/mufengim?serverTimezone=UTC&useSSL=false&characterEncoding=UTF8
     username: root
 
   application:
